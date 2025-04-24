@@ -1,4 +1,4 @@
-package com.pluralsight;// Declares the package name for organizational purposes
+package com.pluralsight; // Declares the package name for organizational purposes
 
 import java.time.LocalDateTime;// Imports the LocalDateTime class to work with date and time
 import java.time.format.DateTimeFormatter;// Imports DateTimeFormatter to format date and time
